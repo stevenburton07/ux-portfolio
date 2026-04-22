@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   },
   description:
     "UX product designer crafting thoughtful, human-centered experiences. Currently at FamilySearch.",
-  metadataBase: new URL("https://stevenburton.design"),
+  metadataBase: new URL("https://stevendburton.com"),
   openGraph: {
     title: "Steven Burton — UX Designer",
     description:
