@@ -9,7 +9,7 @@ Personal UX portfolio site for Steven Burton, a product designer at FamilySearch
 - Next.js 16 (App Router) + TypeScript
 - Tailwind CSS v4 (dark mode only)
 - Framer Motion (micro-interactions, scroll animations, page transitions)
-- Deployed to Vercel
+- Deployed to Cloudflare Pages
 
 ## Commands
 - `npm run dev` — start dev server
